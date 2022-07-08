@@ -1,0 +1,2 @@
+rootProject.name='Android Alarm Clock Application'
+include ':app'
